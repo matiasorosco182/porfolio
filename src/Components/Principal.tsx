@@ -53,7 +53,7 @@ const Principal = () => {
               <a href="#" aria-label="Facebook" className="hover:text-green-600">
                 <Phone />
               </a>
-              <a href="https://www.instagram.com/nacho.orosco2/" aria-label="Instagram" className="hover:text-green-600">
+              <a href="https://www.instagram.com/naron142/" aria-label="Instagram" className="hover:text-green-600">
                 <Instagram />
               </a>
               <a href="https://www.linkedin.com/in/ignacio-orosco-4400b1321/" aria-label="LinkedIn" className="hover:text-green-600">
