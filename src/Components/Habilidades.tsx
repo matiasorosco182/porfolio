@@ -96,14 +96,14 @@ const Habilidades = () => {
           
           
                     
-            <p className="text-[#f8f9fa]">MySql </p>
+            <p className="text-[#f8f9fa]">React </p>
           </div>
 
           <div className="bg-transparent p-1 rounded-xl  ">                  
          
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
           
-            <p className="text-[#f8f9fa]">MySql </p>
+            <p className="text-[#f8f9fa]">Vue.js </p>
           </div>
           
            <div className="bg-transparent p-1 rounded-xl  ">                  
@@ -112,7 +112,7 @@ const Habilidades = () => {
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
           
           
-            <p className="text-[#f8f9fa]">MySql </p>
+            <p className="text-[#f8f9fa]">Dotnet core </p>
           </div>
 
 
