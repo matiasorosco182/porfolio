@@ -17,7 +17,7 @@ const Navbar = () => {
           className="text-base px-20.55 font-semibold py-2.5"
           style={{ color: "#000000" }}
         >
-          MyB
+     
         </a>
 
         <div className="hidden lg:flex gap-9">
