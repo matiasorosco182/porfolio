@@ -50,7 +50,7 @@ const Principal = () => {
         
         {/* Título principal con saludo */}
         <h1 className="text-4xl md:text-6xl font-bold text-[#f8f9fa]">
-          <span className="text-green-600">Hi </span> Matías Orosco
+          <span className="text-green-600">Hi! I'm </span> Matías Orosco
         </h1>
 
         {/* Subtítulo indicando profesión */}
